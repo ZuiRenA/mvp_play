@@ -1,6 +1,5 @@
 package project.shen.mvp_play.imvp
 
-import android.app.Activity
 import android.content.Context
 import dagger.Component
 import dagger.Module
